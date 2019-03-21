@@ -1,1 +1,1 @@
-This is my first basic program that I pushed to GIT
+This is a readme file for a pretty basic program. I'm learning!
